@@ -24,9 +24,9 @@ else:
 # 2. Print the following message:
 #      - What you entered is xx characters long
 # 3. Return to step 1, unless the word 'quit' was entered.
-# phrase = input(f'Enter a phrase: ').lower()
-# print(f'the user entered {phrase}')
-# print(len(phrase))
+phrase = input(f'Enter a phrase: ').lower()
+print(f'the user entered {phrase}')
+print(len(phrase))
 
 
 # exercise-03 Calculate Dog Years
